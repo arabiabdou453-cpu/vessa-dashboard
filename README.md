@@ -10,7 +10,7 @@
 [![Design System](https://img.shields.io/badge/CSS3-Design_Tokens_%26_Grid-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/arabiabdou453-cpu/vessa-dashboard/pulls)
 
-[Live Overview](#key-features) • [Quick Start](#-quick-start) • [Architecture](#-architecture--tech-stack) • [Modules](#-core-modules) • [Keyboard Shortcuts](#-keyboard-shortcuts)
+[🚀 Live Demo](https://arabiabdou453-cpu.github.io/vessa-dashboard/#/dashboard/overview) • [Overview](#-overview) • [Quick Start](#-quick-start) • [Architecture](#-architecture--tech-stack) • [Modules](#-core-modules) • [Keyboard Shortcuts](#-keyboard-shortcuts)
 
 ---
 
