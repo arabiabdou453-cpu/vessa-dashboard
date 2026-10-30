@@ -1,0 +1,22 @@
+{
+  "name": "vessa-dashboard",
+  "version": "1.0.0",
+  "description": "Stock and supply management platform for skincare laboratories and boutique manufacturing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "dashboard",
+    "inventory-management",
+    "skincare-lab",
+    "warehouse",
+    "supply-chain",
+    "vanilla-js",
+    "design-system",
+    "spa"
+  ],
+  "author": "Abdou Arabi <arabiabdou453@gmail.com>",
+  "license": "MIT"
+}
