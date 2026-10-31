@@ -4,7 +4,7 @@ import{$n as e,Bn as t,Et as n,F as r,Ft as i,G as a,Jn as o,Jt as s,K as c,Kn a
     <span class="cs-card__tags">${t.tags.map(R).join(``)||`<span class="cs-none">No tags</span>`}</span>
     <span class="cs-card__figs"><span><small>Lifetime</small><b>${T(n.revenue)}</b></span><span><small>Last order</small><b>${e(be(n.last))}</b></span></span>
     <span class="cs-card__spark">${i?he(n.monthly,`pine`,220,40):`<span class="cs-flat"></span>`}<small>${i?`${T(n.monthly.at(-1)??0)} this month`:`No spend in six months`}</small></span>
-  </a>`}function Te(){let e=I(`stockists`);e.innerHTML=`${ue({eyebrow:`Shops that sell Marlow & Fern on their shelves`,title:`Stockists`,actions:`<button type="button" class="btn btn--primary magnetic" data-act="new">${A(`userPlus`)}New customer</button>`,stats:Ce()})}
+  </a>`}function Te(){let e=I(`stockists`);e.innerHTML=`${ue({eyebrow:`Shops that sell Protection Civile 14 on their shelves`,title:`Stockists`,actions:`<button type="button" class="btn btn--primary magnetic" data-act="new">${A(`userPlus`)}New customer</button>`,stats:Ce()})}
   <section class="card cs-wrap" aria-label="Stockists">
     <div class="toolbar">
       <div class="chips" data-k="s-tags" role="group" aria-label="Tag"></div>
